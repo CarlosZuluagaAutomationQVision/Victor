@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Verificar que el usuario compra el vestido mas caro" skipped="0" tests="1" time="30.89" timestamp="2020-12-04 03:36:20"><testcase name="comprar el vestido mas caro"><failure message="&#10;Expected: a string starting with &quot; Se envió el mensaje.&quot;&#10;     but: was &quot;Se envió el mensaje.&#10; Deshacer&#10; Ver mensaje&quot;" type="java.lang.AssertionError">
+Expected: a string starting with " Se envió el mensaje."
+     but: was "Se envió el mensaje.
+ Deshacer
+ Ver mensaje"</failure><system-err>
+Expected: a string starting with " Se envió el mensaje."
+     but: was "Se envió el mensaje.
+ Deshacer
+ Ver mensaje"&#13;
+stepdefinitions.BuscarVestidoStepDefinitions.elUsuarioEnviaUnCorreo(BuscarVestidoStepDefinitions.java:54)&#13;
+✽.el usuario envia un correo Se envió el mensaje.(src/test/resources/features/BuscarVestido.feature:18)&#13;
+</system-err></testcase></testsuite>
